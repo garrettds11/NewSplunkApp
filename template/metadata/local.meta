@@ -1,0 +1,13 @@
+[app/ui]
+version = 8.2.2
+modtime = 1653250695.657281400
+
+[app/launcher]
+version = 8.2.2
+modtime = 1653250695.661290800
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 8.2.2
+modtime = 1653251373.420715300
